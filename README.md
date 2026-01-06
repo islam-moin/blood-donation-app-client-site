@@ -19,7 +19,7 @@ The main objectives of this application are:
 
 ## 🌐 Live Website
 
-* **Front-end Live Link:** 👉 https://vitalflow-9b72a.web.app/.app
+* **Front-end Live Link:** 👉 https://vitalflow-9b72a.web.app/
 * **Back-end Live Link:** 👉 https://blood-care-server-ten.vercel.app
 
 ---
@@ -165,7 +165,7 @@ The main objectives of this application are:
 
 ## 🚀 Deployment
 
-* Frontend deployed on **Netlify**
+* Frontend deployed on **Firebase**
 * Backend deployed on **Vercel**
 
 ---
